@@ -8,16 +8,19 @@ The App consist of:
   <li>User is greated in the Chat room using the broadcast welcome message</li>
   <li>User can view the number of active users in the room</li>
   <li>Users can communicate in the room</li>
-/ul>
+</ul>
 
-<h5><b>Demo<b><h5>
-This application is deployed on GithHub. Please check it out 😄 here.
-https://naisarg53.github.io/COVID-19_tracker_reactjs/
+<h5><b>Project Images<b><h5>
+<b>Home Page<b>
+![HomePage](https://user-images.githubusercontent.com/59700346/132243346-190838fc-f4bf-4b1f-817b-07585574f98f.JPG)
+
+<b>Chat Room</b>
+![ChatPage](https://user-images.githubusercontent.com/59700346/132243395-c941a81b-53ed-44af-b4ed-bd24a7f3ea1c.JPG)
 
 Install
 Some basic Git commands are:
 
-$ git clone https://github.com/naisarg53/COVID-19_tracker_reactjs.git
+$ git clone https://github.com/naisarg53/ChatApp.git
 $ cd client
 $ cd server
 $ npm install
