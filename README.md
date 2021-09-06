@@ -37,8 +37,10 @@ $ npm install
   
   
 <b>Home Page<b>
+  
 ![HomePage](https://user-images.githubusercontent.com/59700346/132243346-190838fc-f4bf-4b1f-817b-07585574f98f.JPG)
 
   
 <b>Chat Room</b>
+  
 ![ChatPage](https://user-images.githubusercontent.com/59700346/132243395-c941a81b-53ed-44af-b4ed-bd24a7f3ea1c.JPG)
